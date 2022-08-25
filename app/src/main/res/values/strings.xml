@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CalculadoraCombustivel</string>
+    <string-array name="lista_combustivel">
+        <item>Selecione o tipo de combustível...</item>
+        <item>Etanol</item>
+        <item>Gasolina</item>
+    </string-array>
+</resources>
